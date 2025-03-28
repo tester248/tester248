@@ -1,9 +1,18 @@
+
 # 💫 About Me  
-Hey there! I'm a passionate **tech enthusiast** with a strong interest in:  
-🚀 **Cloud Computing** | 🌍 **Deployment & Hosting** | 🔗 **APIs** | 🖥️ **Full Stack Web & Android Development**  
+Hey there! I'm a passionate **tech enthusiast** with interests in:  
+
+- 🚀 **Cloud Computing**  
+- 🌍 **Deployment & Hosting**  
+- 🔗 **APIs**  
+- 🖥️ **Full Stack Web & Android Development**  
 
 I have a **deep interest** in **Linux** 🐧 and enjoy working with the **command line** to automate, deploy, and manage applications efficiently.  
 
+💡 **Currently exploring and working with AI/ML** 🤖, focusing on:  
+- **Deep Learning**  
+- **Computer Vision**  
+- **Model Deployment** using **TensorFlow, Keras, and OpenCV**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-mathur-348a62257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwin08.mathur@gmail.com) 
